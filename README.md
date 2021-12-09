@@ -21,5 +21,5 @@
 Le facteur le plus important pour une incrustation réussie c’est la séparation des couleurs entre le premier plan (le sujet) et le fond (l’écran).
 ### Anciens mécanismes
 #### Example: métropolis(1926), décors miniatures et mirroirs inclinés
-### Mécanisme Aujourd'hui
 ### Fin 
+#### Merci de m'avoir écouter!
