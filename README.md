@@ -20,6 +20,7 @@ vidéo: https://www.youtube.com/watch?v=K4MnFACzKfQ&t=72s
 #### Example: métropolis(1926), décors miniatures et mirroirs inclinés
 ![méliés](media/metropolis.jfif)
 ![méliés](media/mirroir.jfif)
+![méliés](media/metropolis2.png)
 ### Mécanisme d'aujourd'hui
 ![méliés](media/video1.jpg)
 ####  Elle consiste à placer l’objet/personnage au centre du fond vert puis de placer une première lumière principale (key light) sur un coté du personnage. Cette dernière va générer beaucoup d’ombres  qu’il faudra déboucher. Pour cela, une lumière de remplissage (fill light), qui fonctionnera de paire avec la lumière principale, éclairera les ombres générées par la key light, les ombres ne seront donc plus complètement noires. La lumière de remplissage peut être remplacée par un réflecteur qui apporte une lumière douce et plus diffuse. 
