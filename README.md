@@ -24,7 +24,7 @@ vidéo: https://www.youtube.com/watch?v=K4MnFACzKfQ&t=72s
 ### Mécanisme d'aujourd'hui
 ![méliés](media/video1.jpg)
 ####  Elle consiste à placer l’objet/personnage au centre du fond vert puis de placer une première lumière principale (key light) sur un coté du personnage. Cette dernière va générer beaucoup d’ombres  qu’il faudra déboucher. Pour cela, une lumière de remplissage (fill light), qui fonctionnera de paire avec la lumière principale, éclairera les ombres générées par la key light, les ombres ne seront donc plus complètement noires. La lumière de remplissage peut être remplacée par un réflecteur qui apporte une lumière douce et plus diffuse. 
-#### Enfin une lumière contre jour (back light), à l’arrière du personnage dirigé vers lui permettra de décoller le sujet du fond. Comme indiquez plus haut, une incrustation réussie dépend en grande partie de la séparation du personnage et du fond.
+#### Enfin une lumière contre jour (back light), à l’arrière du personnage dirigé vers lui permettra de décoller le sujet du fond. Une incrustation réussie dépend en grande partie de la séparation du personnage et du fond.
 ### Conseils
 - le sujet doit être le plus éloigné possible du fond vert
 – éclairez correctement votre fond vert
