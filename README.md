@@ -25,6 +25,17 @@ vidéo: https://www.youtube.com/watch?v=K4MnFACzKfQ&t=72s
 ![méliés](media/video1.jpg)
 ####  Elle consiste à placer l’objet/personnage au centre du fond vert puis de placer une première lumière principale (key light) sur un coté du personnage. Cette dernière va générer beaucoup d’ombres  qu’il faudra déboucher. Pour cela, une lumière de remplissage (fill light), qui fonctionnera de paire avec la lumière principale, éclairera les ombres générées par la key light, les ombres ne seront donc plus complètement noires. La lumière de remplissage peut être remplacée par un réflecteur qui apporte une lumière douce et plus diffuse. 
 #### Enfin une lumière contre jour (back light), à l’arrière du personnage dirigé vers lui permettra de décoller le sujet du fond. Une incrustation réussie dépend en grande partie de la séparation du personnage et du fond.
+### Logiciels
+9 logiciels de fond vert gratuits recommandés
+1. VSDC Free Video Editor
+2. iMovie
+3. Virualdub
+4. Debugmode Wax
+5. ZS4
+6. Lightworks
+7. OpenShot
+8. OBStudio
+9. HitFilm
 ### Conseils
 - le sujet doit être le plus éloigné possible du fond vert
 – éclairez correctement votre fond vert
