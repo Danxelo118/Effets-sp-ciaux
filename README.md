@@ -16,7 +16,7 @@
 ![méliés](media/metropolis.jfif)
 ![méliés](media/mirroir.jfif)
 ### Mécanisme d'aujourd'hui
-![méliés](media/fontvertvideo.jpg)
+![méliés](media/video1.jpg)
 ####  Elle consiste à placer l’objet/personnage au centre du fond vert puis de placer une première lumière principale (key light) sur un coté du personnage. Cette dernière va générer beaucoup d’ombres  qu’il faudra déboucher. Pour cela, une lumière de remplissage (fill light), qui fonctionnera de paire avec la lumière principale, éclairera les ombres générées par la key light, les ombres ne seront donc plus complètement noires. La lumière de remplissage peut être remplacée par un réflecteur qui apporte une lumière douce et plus diffuse. 
 #### Enfin une lumière contre jour (back light), à l’arrière du personnage dirigé vers lui permettra de décoller le sujet du fond. Comme indiquez plus haut, une incrustation réussie dépend en grande partie de la séparation du personnage et du fond.
 ### Conseils
@@ -27,7 +27,5 @@
 – prenez un fond vert le plus pur possible
 – pas de vert sur le sujet. Il est aussi important de choisir le bon vert, il faut un vert avec le plus de vert possible.
 Le facteur le plus important pour une incrustation réussie c’est la séparation des couleurs entre le premier plan (le sujet) et le fond (l’écran).
-### Anciens mécanismes
-#### Example: métropolis(1926), décors miniatures et mirroirs inclinés
 ### Fin 
 #### Merci de m'avoir écouter!
