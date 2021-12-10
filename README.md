@@ -5,6 +5,7 @@
 ### Création
 #### George Méliès en 1896
 ![méliés](media/George_Melies.jpg)
+ il assiste à la première projection publique et payante de l'invention des frères Lumières : le cinématographe.
 vidéo: https://www.youtube.com/watch?v=K4MnFACzKfQ&t=72s
 ### Définition fond vert
 ![méliés](media/studio-photo-fond-vert.jpg)
