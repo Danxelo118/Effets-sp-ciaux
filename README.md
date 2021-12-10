@@ -5,6 +5,7 @@
 ### Création
 #### George Méliès en 1896
 ![méliés](media/George_Melies.jpg)
+vidéo: https://www.youtube.com/watch?v=K4MnFACzKfQ&t=72s
 ### Définition fond vert
 ![méliés](media/studio-photo-fond-vert.jpg)
 #### C'est le principe de filmer une personne ou un objet devant un fond coloré dans le but de traiter le résultat à l’aide d’un logiciel. Ainsi, cette couleur deviendra transparente et il sera possible de permuter ce fond coloré et le transformer en image fixe ou en mouvement de son choix.
