@@ -4,6 +4,7 @@
 ## Histoire
 ### Création
 #### George Méliès en 1896
+https://github.com/Danxelo118/Effets-speciaux/blob/main/media/George_Melies.jpg
 ### Définition fond vert
 #### C'est le principe de filmer une personne ou un objet devant un fond coloré dans le but de traiter le résultat à l’aide d’un logiciel. Ainsi, cette couleur deviendra transparente et il sera possible de permuter ce fond coloré et le transformer en image fixe ou en mouvement de son choix.
 ### Pourquoi le vert?
