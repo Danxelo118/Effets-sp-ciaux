@@ -1,6 +1,8 @@
 # Effets-speciaux
 ## Définition
 #### Créer illusions et simuler objets, environnements, personnages ou phénomènes iréalistes
+![méliés](media/alice.jpg) 
+Alice au pays des merveilles (2010)
 ## Histoire
 ### Création
 #### George Méliès en 1896
